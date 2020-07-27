@@ -1,6 +1,6 @@
 # news_api
 
-A new Flutter application. it is a news api.
+A new Flutter application. it is a news app.
 
 ## Language And Framework
  
