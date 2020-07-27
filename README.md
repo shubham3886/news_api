@@ -7,7 +7,7 @@ A new Flutter application. it is a news api.
  * Dart
  * Flutter
 
-## Der Structure
+## Dir Structure
 
  * Flutter
  * http
